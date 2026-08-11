@@ -24,4 +24,4 @@ The features of the resulting dataset are:
 
 ## Citation
 
-Santos, Breno Santana. **Web Scraping of the Journal Citation Reports from Web of Science** [Internet]. Natal: Rio Grande do Norte, Brazil; 2025 Aug 11. Available from: https://github.com/bjorn-heilagi/journal-citation-reports-wos.
+Santos, Breno Santana. **Web Scraping of the Journal Citation Reports from Web of Science** [Internet]. Natal: Rio Grande do Norte, Brazil; 2026 Aug 11. Available from: https://github.com/bjorn-heilagi/journal-citation-reports-wos.
